@@ -30,7 +30,7 @@ $ bower install twemoji-awesome
 Then add a `<link>` to your `index.html`:
 
 ```html
-<link rel="stylesheet" href="/node_modules/twemoji-awesome/twemoji-awesome.min.css">
+<link rel="stylesheet" href="/bower_packages/twemoji-awesome/dist/twemoji-awesome.min.css">
 ```
 
 ### npm
@@ -42,7 +42,7 @@ $ npm install twemoji-awesome
 Then add a `<link>` to your `index.html`:
 
 ```html
-<link rel="stylesheet" href="/node_modules/twemoji-awesome/twemoji-awesome.min.css">
+<link rel="stylesheet" href="/node_modules/twemoji-awesome/dist/twemoji-awesome.min.css">
 ```
 
 ## [View Demo and Documentation &rarr;](http://abr4xas.github.io/twemoji-awesome)
